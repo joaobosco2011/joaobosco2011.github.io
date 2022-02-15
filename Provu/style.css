@@ -1,0 +1,48 @@
+header h1 {
+    padding-left: 20px;
+}
+
+.banner {
+    width: 100%;
+}
+
+h2, p {
+    text-align: center;
+}
+
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+
+.segundo-paragrafo {
+    font-size: 20px;
+}
+
+.segundo-paragrafo strong {
+    color: red;
+}
+
+.beneficios {background: #ffffff;
+
+    padding: 20px;
+}
+
+.beneficios h3 {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagem-beneficios {
+    width: 50%;
+}
