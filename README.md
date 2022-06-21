@@ -5,7 +5,7 @@
   <a href="#-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-clonando-o-repositório">Clonando o Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 ---
@@ -42,9 +42,9 @@ git clone https://github.com/joaobosco2011/joaobosco2011.github.io
 
 Uma vez que o seu pull request receba um merged, você pode deletar a sua branch.
 
-## 📝 License
+## 📝 Licença
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+Este projeto está sob a licença do MIT.
 
 ---
 
